@@ -1,0 +1,29 @@
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+#text-left {
+    background-color: rgb(126, 103, 242);
+    float: left;
+}
+
+#text-right {
+    background-color:rgb(156, 216, 253);
+    float: right;
+}
+.text {
+    width: 30%;
+    padding: 13% 10%;
+}
+
+.img {
+    background-color:rgb(14, 166, 197);
+    padding: 2%;
+    text-align: center;
+}
+
+.clear {
+    clear:both;
+}
